@@ -1,0 +1,85 @@
+html{
+    background-image: url('../src/fondoMuerto.avif');
+    display: block;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.body{
+    background-color:rgb(68, 6, 95);
+    width: 900px;
+    margin: 20px auto;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid black;
+}
+
+.titulos{
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+    text-shadow: 7px 4px 5px black;
+}
+
+#logoSEP{
+    display: block;
+    height: 50px;
+    width: auto;
+    float: left;
+}
+
+#logoNacional{
+    display: flex;
+    height: 50px;
+    width: auto;
+}
+
+#logoTec{
+    display: block;
+    height: 50px;
+    width: auto;
+    float: right;
+}
+
+#encabezado{
+    background-color: rgb(66, 8, 121);
+}
+
+#descripcion{
+    font-size: larger;
+    font-variant: small-caps;
+    text-shadow: 7px 4px 5px black;
+}
+
+table{
+    text-align: center;
+    font-variant: small-caps;
+    text-shadow: 7px 4px 5px black;
+}
+
+.inicio{
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px 10px 10px 10px;
+}
+
+.inicio2{
+    display: block;
+    width: 300px;
+    height: auto;
+    margin: 10px auto;
+    padding: 45px 10px 10px 10px;
+}
+
+p{
+    font-variant: small-caps;
+    text-shadow: 7px 4px 5px black;
+    text-align: center;
+    color: white;
+}
+
+.boton{
+    font-variant: small-caps;
+    text-shadow: 7px 4px 5px black;
+}
